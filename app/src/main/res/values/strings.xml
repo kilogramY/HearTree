@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Heartree</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub1">Sub1</string>
+    <string name="title_activity_sub2">Sub2</string>
+    <string name="title_activity_setting_main">Setting_main</string>
+    <string name="title_activity_setting_list">setting_list</string>
+    <string name="title_activity_sub2content">Sub2content</string>
+    <string name="dt_100">100일</string>
+    <string name="dt_200">200일</string>
+    <string name="dt_300">300일</string>
+    <string name="dt_1Y">1년</string>
+    <string name="dt_2Y">2년</string>
+    <string name="dt_3Y">3년</string>
+    <string name="dt_4Y">4년</string>
+    <string name="dt_5Y">5년</string>
+    <string name="dt_10Y">10년</string>
+</resources>
